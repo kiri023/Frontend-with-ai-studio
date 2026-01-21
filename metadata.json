@@ -1,0 +1,5 @@
+{
+  "name": "[공유용]AI브로 (AI-Bro)",
+  "description": "소상공인 정책자금 맞춤 추천 챗봇 및 대시보드. SBIZ24 데이터를 기반으로 맞춤형 대출/보증 정보를 제공합니다.",
+  "requestFramePermissions": []
+}
